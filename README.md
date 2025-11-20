@@ -1,47 +1,15 @@
 # MERN Stack Capstone Project
 
-This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
+🏥 MediReach — MERN Healthcare Appointment System
 
-## Assignment Overview
+MediReach is a full-stack healthcare appointment platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+It allows patients to register, log in, book appointments, view bookings, receive confirmations via email and SMS (Twilio), and interact with healthcare providers in a modern and user-friendly interface.
 
-You will:
-1. Plan and design a full-stack MERN application
-2. Develop a robust backend with MongoDB, Express.js, and Node.js
-3. Create an interactive frontend with React.js
-4. Implement testing across the entire application
-5. Deploy the application to production
+This project was developed as part of the PLP MERN Stack Final Project, demonstrating authentication, protected routes, API integration, and CRUD operations.
 
-## Getting Started
+Designed for simplicity, automation, and accessibility, MediReach improves how patients connect with medical professionals—making healthcare more efficient and convenient.
 
-1. Accept the GitHub Classroom assignment
-2. Clone the repository to your local machine
-3. Follow the instructions in the `Week8-Assignment.md` file
-4. Plan, develop, and deploy your capstone project
 
-## Files Included
-
-- `Week8-Assignment.md`: Detailed assignment instructions
-
-## Requirements
-
-- Node.js (v18 or higher)
-- MongoDB (local installation or Atlas account)
-- npm or yarn
-- Git and GitHub account
-- Accounts on deployment platforms (Render/Vercel/Netlify/etc.)
-
-## Project Ideas
-
-The `Week8-Assignment.md` file includes several project ideas, but you're encouraged to develop your own idea that demonstrates your skills and interests.
-
-## Submission
-
-Your project will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Commit and push your code regularly
-2. Include comprehensive documentation
-3. Deploy your application and add the live URL to your README.md
-4. Create a video demonstration and include the link in your README.md
 
 ## Resources
 
